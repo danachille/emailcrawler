@@ -1,7 +1,7 @@
 
-# Email Cr@wler
+# Email Crawler
 
-EmailCr@wler is a python3 script that allows you to find any email address in a website
+EmailCrawler is a python3 script that allows you to find any email address in a website
 
 
 # Parameters
